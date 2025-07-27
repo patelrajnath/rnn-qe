@@ -1,6 +1,6 @@
-# Translation Quality Estimation using Recurrent Neural Network
+# Predictor-Estimator using Multilevel Task Learning with Stack Propagation for Neural Quality Estimation
 
-This repository implements the paper "Translation Quality Estimation using Recurrent Neural Network" with PyTorch, reproducing the results and providing a complete framework for quality estimation.
+This repository implements the paper "Predictor-Estimator using Multilevel Task Learning with Stack Propagation for Neural Quality Estimation" with PyTorch, reproducing the results and providing a complete framework for quality estimation.
 
 ## Overview
 
@@ -206,7 +206,7 @@ If you use this implementation, please cite the original paper:
 @article{kim2017predictor,
   title={Predictor-Estimator using Multilevel Task Learning with Stack Propagation for Neural Quality Estimation},
   author={Kim, Hyun and Lee, Jong-Hyeok and Na, Seung-Hoon},
-  journal={arXiv preprint arXiv:1610.04841},
+  journal={https://aclanthology.org/W17-4763.pdf},
   year={2017}
 }
 ```
